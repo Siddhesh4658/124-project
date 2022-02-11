@@ -1,0 +1,39 @@
+.heading
+{
+    font-size: 20px;
+    width: 100%;
+    font-family: comic;
+    margin: 0px;
+    box-shadow:5px 5px 5px rgb(128, 50, 63);
+}
+
+.note
+{
+    font-size: 15px;
+    color: rgb(122, 116, 82);
+}
+
+.subscribe
+{
+    font-size: 15px;
+    font-family: bold;
+    color: rgb(59, 57, 202);
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: rgb(127, 204, 120);
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(187, 118, 118);
+    line-height: 4;
+    text-align: center;
+}
+
+canvas
+{
+    border:solid 5px grey;
+    border-radius: 10px;
+    box-shadow:5px 5px 5px pink;
+}
